@@ -110,7 +110,8 @@ tr.last-row  td{
     text-align: center;    
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%);
+    color: hsl(14, 45%, 36%);
+    text-decoration: none;
 }
 @media screen and (max-width: 350px) {
     .recipe {
